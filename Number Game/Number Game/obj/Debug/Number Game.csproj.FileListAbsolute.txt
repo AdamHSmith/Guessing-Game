@@ -1,0 +1,7 @@
+C:\Users\asmit\Code\Number Game\Number Game\bin\Debug\Number Game.exe.config
+C:\Users\asmit\Code\Number Game\Number Game\bin\Debug\Number Game.exe
+C:\Users\asmit\Code\Number Game\Number Game\bin\Debug\Number Game.pdb
+C:\Users\asmit\Code\Number Game\Number Game\obj\Debug\Number Game.csprojAssemblyReference.cache
+C:\Users\asmit\Code\Number Game\Number Game\obj\Debug\Number Game.csproj.CoreCompileInputs.cache
+C:\Users\asmit\Code\Number Game\Number Game\obj\Debug\Number Game.exe
+C:\Users\asmit\Code\Number Game\Number Game\obj\Debug\Number Game.pdb
